@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.author       = "Global Nomad"
   spec.name          = "mundana"
-  spec.version       = "0.1.1"
+  spec.version       = "0.1.2"
   spec.authors       = [""]
   spec.email         = [""]
   spec.summary       = "This is a Jekyll theme"
@@ -13,5 +13,5 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "jekyll", "~> 4.3"
   spec.add_development_dependency "bundler", "~> 1.12"
   spec.add_development_dependency "rake", "~> 10.0"
-  spec.required_ruby_version = ">= 3.5.0"
+  spec.required_ruby_version = ">= 3.0"
   end
